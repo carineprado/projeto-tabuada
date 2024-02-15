@@ -1,6 +1,3 @@
-# projeto-tabuada
- 
-
 # Curso JavaScript - CursoemVideo
 Projeto Tabuada criado no Módulo E do curso de JavaScript.
 
